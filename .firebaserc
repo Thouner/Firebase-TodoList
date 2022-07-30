@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "tstodolistfirebase"
+  },
+  "targets": {
+    "tstodolistfirebase": {
+      "hosting": {
+        "23.firebase-todolist": [
+          "tstodolistfirebase"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
